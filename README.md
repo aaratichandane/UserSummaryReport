@@ -37,8 +37,13 @@ show dbs
 **Create database named "UserDB"**
 
 ```
-use test
+use UserDB
 ```
+**Input Data in users Collection**
+
+    Create collection with name "users"
+    from the codebase follow the path /testData/users.json
+    Import this data in "users" collection
 
 ### How to run
 
